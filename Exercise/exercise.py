@@ -14,3 +14,8 @@ wysokosc = 8
 pole_tr = podstawa * wysokosc / 2
 print("Pole trójkąta wynosi " + str(pole_tr))
 
+#romb
+przekatna_e = 8
+przekatna_f = 6
+pole_ro = przekatna_e * przekatna_f 
+print("Pole rombu wynosi " + str(pole_ro))
